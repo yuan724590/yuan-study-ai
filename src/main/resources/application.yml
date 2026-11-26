@@ -4,3 +4,6 @@ spring:
       api-key: sk-03a217ba8dfd41d2bf520b323ba7680d
       chat:
         model: deepseek-chat
+logging:
+  level:
+    org.springframework.ai: DEBUG
