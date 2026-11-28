@@ -56,3 +56,4 @@ src/main/resources/application-secret.yml
 
 # Maven/Gradle 包装器脚本通常建议提交，但 wrapper jar 可选
 !.mvn/wrapper/maven-wrapper.jar
+application.yml
